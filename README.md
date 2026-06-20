@@ -243,6 +243,7 @@ Users can instantly view:
 * Product Planning Insights
   
 <img width="1600" height="654" alt="image" src="https://github.com/user-attachments/assets/b74b768a-b131-4e09-97ee-40f7267286b6" />
+<img width="1600" height="861" alt="image" src="https://github.com/user-attachments/assets/21ca98bb-91d3-45e3-ba7d-538b7465ea42" />
 
 
 # 📄 Generated Reports
