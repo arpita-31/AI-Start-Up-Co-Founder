@@ -246,13 +246,13 @@ The platform automatically generates downloadable business documents.
 
 Business Plan PDF
 
-"Business Plan" [](https://drive.google.com/file/d/1FV6S-cDBPqs2PLmciPp2eMquUHn19hgG/view)
+"Business Plan" (https://drive.google.com/file/d/1FV6S-cDBPqs2PLmciPp2eMquUHn19hgG/view)
 
 
 
 SWOT Analysis Report
 
-"SWOT Report" [](https://drive.google.com/file/d/1FgjyQ4g2zgIl2HXYPUsI5w4N_rDVR8Zm/view)
+"SWOT Report" (https://drive.google.com/file/d/1FgjyQ4g2zgIl2HXYPUsI5w4N_rDVR8Zm/view)
 
 
 
